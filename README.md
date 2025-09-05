@@ -96,7 +96,3 @@ Standard library modules used:
     os
     shutil
     random
-
-You can install the Python dependencies (except Gurobi, which requires manual setup) with:
-
-    pip install pyomo pandas numpy geopy matplotlib
